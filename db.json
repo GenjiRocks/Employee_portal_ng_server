@@ -1,11 +1,30 @@
 {
-    "employee":[
-        {
-            "id":1,
-            "username":"Admin",
-            "email":"admin@gmail.com",
-            "password":"1234",
-            "profile":""
-        }
-    ]
+  "employee": [
+    {
+      "id": 1,
+      "empUsername": "Admin",
+      "empEmail": "admin@gmail.com",
+      "password": "1234",
+      "empStatus":"1",
+      "profile": ""
+    },
+    {
+      "empUsername": "ashwin",
+      "empEmail": "ashwin@gmail.com",
+      "empStatus": "active",
+      "id": 2
+    },
+    {
+      "empUsername": "bimal",
+      "empEmail": "bimal@gmail.com",
+      "empStatus": "inactive",
+      "id": 3
+    },
+    {
+      "empUsername": "asdasdxzc",
+      "empEmail": "zxczxc@gmail.com",
+      "empStatus": "active",
+      "id": 4
+    }
+  ]
 }
